@@ -1,0 +1,1051 @@
+:root {
+  --web-view-ids: Home;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+
+a {
+  color: rgba(26, 163, 217, 1);
+}
+
+#Home {
+  position: absolute;
+  width: 1920px;
+  height: 4624px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Home;
+  --web-view-id: Home;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+
+#section-1 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#duy-pham-Cecb0_8Hx-o-unsplash {
+  opacity: 0.878;
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#text-section {
+  position: absolute;
+  width: 1278px;
+  height: 656px;
+  left: 321px;
+  top: 237px;
+  overflow: visible;
+  padding: 60px 30px 60px 30px;
+}
+
+#Path_1 {
+  filter: blur(20px);
+  fill: rgba(255, 255, 255, 1);
+}
+
+.Path_1 {
+  overflow: visible;
+  position: absolute;
+  width: 1278px;
+  height: 656px;
+  left: 0;
+  top: 0;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Group_8 {
+  position: absolute;
+  width: 1218px;
+  height: 536px;
+  left: 30px;
+  top: 60px;
+  overflow: visible;
+  padding: 0;
+}
+
+#action-button {
+  position: absolute;
+  width: 347px;
+  height: 121px;
+  left: 436px;
+  top: 415px;
+  overflow: visible;
+}
+
+#Group_10 {
+  position: absolute;
+  width: 347px;
+  height: 121px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 23px 16px 19px 15px;
+}
+
+#Group_5 {
+  position: absolute;
+  width: 347px;
+  height: 121px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_2 {
+  fill: rgba(26, 163, 217, 1);
+}
+
+.Rectangle_2 {
+  position: absolute;
+  overflow: visible;
+  width: 347px;
+  height: 121px;
+  left: 0;
+  top: 0;
+}
+
+#Schedule_a_Free_Online_Session, #Schedule_a_Free_Online_Session_ca {
+  left: 15px;
+  top: 23px;
+  position: absolute;
+  overflow: visible;
+  width: 317px;
+  height: 79px;
+  line-height: 44px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  color: rgba(255, 255, 255, 1);
+}
+
+#Do_you_have_a_problem_that_you {
+  left: 200px;
+  top: 198px;
+  position: absolute;
+  overflow: visible;
+  width: 819px;
+  height: 187px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#Group_7 {
+  position: absolute;
+  width: 1218px;
+  height: 168px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 0;
+}
+
+#Solving_the_Worlds_Problems_On {
+  left: 0;
+  top: 0;
+  position: absolute;
+  overflow: visible;
+  width: 1219px;
+  height: 168px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#footer {
+  position: absolute;
+  width: 1920px;
+  height: 302px;
+  left: 0;
+  top: 4321px;
+  overflow: visible;
+}
+
+#Rectangle_3 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+
+.Rectangle_3 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 302px;
+  left: 0;
+  top: 0;
+}
+
+#group-solve-logo {
+  position: absolute;
+  width: 172px;
+  height: 172px;
+  left: 50px;
+  top: 43px;
+  overflow: visible;
+}
+
+#Group_Solve_Logo {
+  position: absolute;
+  width: 172px;
+  height: 172px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Group_Solve_2022 {
+  left: 52px;
+  top: 248px;
+  position: absolute;
+  overflow: visible;
+  width: 169px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#Repeat_Grid_1 {
+  position: absolute;
+  width: 116px;
+  height: 120px;
+  left: 292px;
+  top: 69px;
+  overflow: hidden;
+}
+
+#Group {
+  position: absolute;
+  width: 115px;
+  height: 120px;
+  left: 1px;
+  top: 0;
+  overflow: visible;
+}
+
+#About_Us {
+  left: 0;
+  top: 0;
+  position: absolute;
+  overflow: visible;
+  width: 97px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(26, 163, 217, 1);
+}
+
+#FAQ {
+  left: 0;
+  top: 48px;
+  position: absolute;
+  overflow: visible;
+  width: 46px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(26, 163, 217, 1);
+}
+
+#Contact_Us {
+  left: 0;
+  top: 96px;
+  position: absolute;
+  overflow: visible;
+  width: 116px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(26, 163, 217, 1);
+}
+
+#Facebook {
+  left: 601px;
+  top: 69px;
+  position: absolute;
+  overflow: visible;
+  width: 101px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(26, 163, 217, 1);
+}
+
+#Twitter {
+  left: 601px;
+  top: 117px;
+  position: absolute;
+  overflow: visible;
+  width: 75px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(26, 163, 217, 1);
+}
+
+#Instagram {
+  left: 601px;
+  top: 165px;
+  position: absolute;
+  overflow: visible;
+  width: 106px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(26, 163, 217, 1);
+}
+
+#Path_40 {
+  fill: rgba(26, 163, 217, 1);
+}
+
+.Path_40 {
+  overflow: visible;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 558px;
+  top: 165px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Path_39 {
+  fill: rgba(26, 163, 217, 1);
+}
+
+.Path_39 {
+  overflow: visible;
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  left: 558px;
+  top: 121px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Path_38 {
+  fill: rgba(26, 163, 217, 1);
+}
+
+.Path_38 {
+  overflow: visible;
+  position: absolute;
+  width: 10px;
+  height: 19px;
+  left: 563px;
+  top: 69px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#n_97_Evergreen_Rd_Roseville_CA {
+  left: 1525px;
+  top: 91px;
+  position: absolute;
+  overflow: visible;
+  width: 329px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(26, 163, 217, 1);
+}
+
+#section-2 {
+  position: absolute;
+  width: 2250px;
+  height: 1080px;
+  left: 0;
+  top: 1080px;
+  overflow: visible;
+}
+
+#Rectangle_5 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+
+.Rectangle_5 {
+  position: absolute;
+  overflow: visible;
+  width: 960px;
+  height: 1080px;
+  left: 960px;
+  top: 0;
+}
+
+#annie-spratt-QckxruozjRg-unspl {
+  position: absolute;
+  width: 1619px;
+  height: 1080px;
+  left: 631px;
+  top: 0;
+  overflow: visible;
+}
+
+#Group_15 {
+  position: absolute;
+  width: 960px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_4 {
+  fill: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_4 {
+  position: absolute;
+  overflow: visible;
+  width: 960px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+}
+
+#Group_13 {
+  position: absolute;
+  width: 806px;
+  height: 492px;
+  left: 77px;
+  top: 291px;
+  overflow: visible;
+}
+
+#action-button_bg {
+  position: absolute;
+  width: 347px;
+  height: 77px;
+  left: 229px;
+  top: 415px;
+  overflow: visible;
+}
+
+#Group_10_bh {
+  position: absolute;
+  width: 347px;
+  height: 77px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 23px 16px 19px 15px;
+}
+
+#Group_5_bi {
+  position: absolute;
+  width: 347px;
+  height: 77px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_2_bj {
+  fill: rgba(26, 163, 217, 1);
+}
+
+.Rectangle_2_bj {
+  position: absolute;
+  overflow: visible;
+  width: 347px;
+  height: 77px;
+  left: 0;
+  top: 0;
+}
+
+#About_Us_bk {
+  left: 15px;
+  top: 23px;
+  position: absolute;
+  overflow: visible;
+  width: 317px;
+  height: 35px;
+  line-height: 44px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  color: rgba(255, 255, 255, 1);
+}
+
+#We_have_been_involved_in_debat {
+  left: 129px;
+  top: 198px;
+  position: absolute;
+  overflow: visible;
+  width: 549px;
+  height: 187px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#Group_7_bm {
+  position: absolute;
+  width: 806px;
+  height: 168px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 0;
+}
+
+#Run_By_High_School_Students, #Comprehensive_Solutions_in_Und, #We_Never_Share_Your_Informatio {
+  left: 0;
+  top: 0;
+  position: absolute;
+  overflow: visible;
+  width: 807px;
+  height: 168px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#Rectangle_6 {
+  opacity: 0.25;
+  fill: rgba(151, 191, 63, 1);
+}
+
+.Rectangle_6 {
+  position: absolute;
+  overflow: visible;
+  width: 960px;
+  height: 1080px;
+  left: 960px;
+  top: 0;
+}
+
+#section-3 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0;
+  top: 2160px;
+  overflow: visible;
+}
+
+#section-3_bq {
+  position: absolute;
+  width: 960px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_7 {
+  opacity: 0.25;
+  fill: rgba(151, 191, 63, 1);
+}
+
+.Rectangle_7 {
+  position: absolute;
+  overflow: visible;
+  width: 960px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+}
+
+#Group_14 {
+  position: absolute;
+  width: 806px;
+  height: 309px;
+  left: 77px;
+  top: 386px;
+  overflow: visible;
+}
+
+#With_our_extensively_tested_di {
+  left: 129px;
+  top: 198px;
+  position: absolute;
+  overflow: visible;
+  width: 549px;
+  height: 111px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#Group_7_bu {
+  position: absolute;
+  width: 806px;
+  height: 168px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 0;
+}
+
+#Group_17 {
+  position: absolute;
+  width: 960px;
+  height: 1080px;
+  left: 960px;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_7_bx {
+  fill: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_7_bx {
+  position: absolute;
+  overflow: visible;
+  width: 960px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+}
+
+#Group_14_by {
+  position: absolute;
+  width: 806px;
+  height: 304px;
+  left: 77px;
+  top: 388px;
+  overflow: visible;
+}
+
+#All_moderators_have_agreed_to_ {
+  left: 129px;
+  top: 198px;
+  position: absolute;
+  overflow: visible;
+  width: 549px;
+  height: 106px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#Group_7_b {
+  position: absolute;
+  width: 806px;
+  height: 168px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 0;
+}
+
+#section-4 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0;
+  top: 3240px;
+  overflow: visible;
+}
+
+#Rectangle_8 {
+  fill: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_8 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 1080px;
+  left: 0;
+  top: 0;
+}
+
+#Group_20 {
+  position: absolute;
+  width: 874px;
+  height: 417px;
+  left: 523px;
+  top: 332px;
+  overflow: visible;
+}
+
+#Group_18 {
+  position: absolute;
+  width: 874px;
+  height: 266px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 0;
+}
+
+#Sign_Up_Now_To_Solve_Your_Prob {
+  left: 0;
+  top: 0;
+  position: absolute;
+  overflow: visible;
+  width: 875px;
+  height: 266px;
+  text-align: center;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#action-button-2 {
+  position: absolute;
+  width: 347px;
+  height: 121px;
+  left: 264px;
+  top: 296px;
+  overflow: visible;
+}
+
+#Group_19 {
+  position: absolute;
+  width: 347px;
+  height: 121px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_2_b {
+  fill: rgba(26, 163, 217, 1);
+}
+
+.Rectangle_2_b {
+  position: absolute;
+  overflow: visible;
+  width: 347px;
+  height: 121px;
+  left: 0;
+  top: 0;
+}
+
+#menu-bar {
+  position: absolute;
+  width: 1920px;
+  height: 155px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Header {
+  position: absolute;
+  width: 1920px;
+  height: 155px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Header_cd {
+  position: absolute;
+  width: 1920px;
+  height: 155px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_1 {
+  filter: blur(50px);
+  fill: rgba(255, 255, 255, 1);
+}
+
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 155px;
+  left: 0;
+  top: 0;
+}
+
+#logo-with-caption {
+  position: absolute;
+  width: 501px;
+  height: 103px;
+  left: 28px;
+  top: 26px;
+  overflow: visible;
+}
+
+#Group_Solve_Logo_cg {
+  position: absolute;
+  width: 103px;
+  height: 103px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Group_1 {
+  position: absolute;
+  width: 372px;
+  height: 70px;
+  left: 129px;
+  top: 9px;
+  overflow: visible;
+  padding: 0;
+}
+
+#Group_Solve {
+  left: 0;
+  top: 0;
+  position: absolute;
+  overflow: visible;
+  width: 373px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#Group_6 {
+  position: absolute;
+  width: 407px;
+  height: 78px;
+  left: 1125px;
+  top: 41px;
+  overflow: visible;
+}
+
+#nav-button {
+  position: absolute;
+  width: 221px;
+  height: 78px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Group_12 {
+  position: absolute;
+  width: 221px;
+  height: 78px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 22px 30px 16px 31px;
+}
+
+#Group_5_cm {
+  position: absolute;
+  width: 221px;
+  height: 78px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_2_cn {
+  filter: blur(30px);
+  fill: transparent;
+}
+
+.Rectangle_2_cn {
+  position: absolute;
+  overflow: visible;
+  width: 221px;
+  height: 78px;
+  left: 0;
+  top: 0;
+}
+
+#About_Us_co {
+  left: 31px;
+  top: 22px;
+  position: absolute;
+  overflow: visible;
+  width: 161px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#nav-button_cp {
+  position: absolute;
+  width: 136px;
+  height: 78px;
+  left: 271px;
+  top: 0;
+  overflow: visible;
+}
+
+#Group_12_cq {
+  position: absolute;
+  width: 136px;
+  height: 78px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 22px 30px 16px 31px;
+}
+
+#Group_5_cr {
+  position: absolute;
+  width: 136px;
+  height: 78px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+#Rectangle_2_cs {
+  fill: transparent;
+}
+
+.Rectangle_2_cs {
+  position: absolute;
+  overflow: visible;
+  width: 136px;
+  height: 78px;
+  left: 0;
+  top: 0;
+}
+
+#FAQ_ct {
+  left: 31px;
+  top: 22px;
+  position: absolute;
+  overflow: visible;
+  width: 76px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(25, 31, 51, 1);
+}
+
+#nav-button-2 {
+  position: absolute;
+  width: 195px;
+  height: 78px;
+  left: 1635px;
+  top: 39px;
+  overflow: visible;
+}
+
+#Group_11 {
+  position: absolute;
+  width: 195px;
+  height: 78px;
+  left: 0;
+  top: 0;
+  overflow: visible;
+  padding: 22px 30px 16px 31px;
+}
+
+#Rectangle_2_cw {
+  //rx="0" ry="0" x="0" y="0"
+  width: 195px;
+  height: 78px;
+  fill: rgba(26, 163, 217, 1);
+}
+
+.Rectangle_2_cw {
+  position: absolute;
+  overflow: visible;
+  width: 195px;
+  height: 78px;
+  left: 0;
+  top: 0;
+}
+
+#Sign_Up {
+  left: 31px;
+  top: 22px;
+  position: absolute;
+  overflow: visible;
+  width: 135px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: apparat-semicond, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255, 255, 255, 1);
+}
